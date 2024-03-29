@@ -1,0 +1,50 @@
+{
+  "name": "assets-compress",
+  "version": "1.0.0",
+  "description": "资源压缩",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "devDependencies": {
+    "bin-wrapper": "4.0.0",
+    "cross-spawn": "^7.0.3",
+    "dir-glob": "^3.0.1",
+    "exec-buffer": "3.0.0",
+    "execa": "4.0.0",
+    "fast-glob": "^3.3.2",
+    "file-type": "^12.0.0",
+    "fs-extra": "^8.1.0",
+    "glob": "^10.3.10",
+    "globby": "10.0.0",
+    "graceful-fs": "^4.2.11",
+    "human-signals": "^2.1.0",
+    "ignore": "^5.3.1",
+    "is-jpg": "2.0.0",
+    "is-png": "2.0.0",
+    "is-stream": "2.0.0",
+    "junk": "^3.1.0",
+    "make-dir": "^4.0.0",
+    "merge-stream": "2.0.0",
+    "merge2": "^1.4.1",
+    "onetime": "^5.1.0",
+    "ow": "0.17.0",
+    "p-pipe": "^3.0.0",
+    "pako": "^2.1.0",
+    "path-key": "^2.0.1",
+    "protobufjs": "^7.1.2",
+    "pump": "3.0.0",
+    "replace-ext": "^2.0.0",
+    "signal-exit": "3.0.3",
+    "slash": "^3.0.0",
+    "strip-final-newline": "^2.0.0"
+  },
+  "keywords": [
+    "imagemin"
+  ],
+  "author": "WYF",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}

@@ -1,10 +1,7 @@
-**因为不可抗力imagemin老是拉不下来，直接保存一个版本出来自己用吧**
-imagemin npm：https://www.npmjs.com/package/imagemin
-git：https://github.com/imagemin/imagemin
+**因为不可抗力imagemin老是拉不下来，直接保存一个版本出来自己用吧**<br/>
+imagemin npm：https://www.npmjs.com/package/imagemin<br/>
+git：https://github.com/imagemin/imagemin<br/>
 <hr/>
-**图片压缩工具**
-**支持**
-暂时只支持png、jpg/jpeg图片压缩
 **配置项:**
 <pre>
   source_Dir: SOURCE_DIR, // 源文件地址
